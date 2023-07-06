@@ -1,7 +1,7 @@
 # mini-vgpt
-mini-vec-gpt迷你矢量gpt，仅用100行代码，完成了langchain+llm+矢量数据库 80%功能。
+mini-vec-gpt迷你矢量gpt，10行代码，完成了langchain+llm+矢量数据库 80%功能。
 
-Mini vec gpt Mini vector gpt, with only 100 lines of code, completes 80% of the functions of langchain+llm+vector database.
+Mini vec gpt Mini vector gpt, with only 10 lines of code, completes 80% of the functions of langchain+llm+vector database.
 
 是mini-vdb迷你矢量数据的demo和教程代码。
 
